@@ -1,1 +1,1 @@
-# DeFi-Buy-Me-A-Coffee
+# Buy Me A Coffee DeFi dApp
