@@ -25,7 +25,7 @@ contract BuyMeACoffee {
         owner = payable(msg.sender);
     }
 
-    function getMemo() public view returns (Memo[] memory) {
+    function getMemos() public view returns (Memo[] memory) {
         return memos;
     }
 
